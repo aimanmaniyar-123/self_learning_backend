@@ -1,0 +1,58 @@
+# Core Framework
+fastapi
+uvicorn
+pydantic
+pydantic-settings
+
+# LangChain & LangGraph
+langchain
+langchain-groq
+langchain-community
+langgraph
+langchain-core
+langchain-postgres
+
+# AI/ML Libraries
+torch
+numpy
+scikit-learn
+transformers
+sentence-transformers
+
+# Database & Vector Store
+psycopg2-binary
+sqlalchemy
+pgvector
+alembic
+
+# Background Tasks
+celery[redis]
+redis
+flower
+
+# Monitoring & Logging
+prometheus-client
+python-json-logger
+structlog
+
+# Utilities
+python-dotenv
+pyyaml
+httpx
+tenacity
+
+# Dashboard
+streamlit
+plotly
+pandas
+
+# Testing
+pytest
+pytest-asyncio
+pytest-cov
+
+# Development
+black
+flake8
+mypy
+pre-commit
